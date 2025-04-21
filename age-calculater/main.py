@@ -16,4 +16,4 @@ if st.button("Calculate Age"):
         if (today.month, today.day) < (dob.month, dob.day):
             age -= 1
        
-        st.success(f"Aapki age hai: {age} saal")
+        st.success(f"you are {age} years old.")
