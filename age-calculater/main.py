@@ -21,11 +21,6 @@ if st.button("calculate age"):
         **You are :rainbow[{age} years] old**
 """)
         st.balloons()
-m
-
-kjdds
-
-ddsdsdddssdds
 
 
 
