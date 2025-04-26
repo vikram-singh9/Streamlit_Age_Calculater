@@ -20,7 +20,7 @@ if st.button("calculate age"):
         st.markdown(f"""
         **You are :rainbow[{age} years] old**
 """)
-        st.balloons()
+        st.balloons()hk
 
 
 
